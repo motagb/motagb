@@ -4,7 +4,7 @@
 
 <br>
 
-Cientista da Computação formado pela **UFRRJ**, com experiência acadêmica em programação, projetos práticos e maratonas de programação.  
+Cientista da Computação formado pela **UFRRJ**, com experiência em programação, projetos práticos e maratonas de programação.  
 Atuo com desenvolvimento web, aplicações full-stack, jogos 3D e projetos envolvendo IA.
 
 <a href="https://linkedin.com/in/motagb">
