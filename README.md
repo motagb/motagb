@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Gabriel+Mota+de+Oliveira;Desenvolvedor+Full-Stack;Cientista+da+Computa%C3%A7%C3%A3o;Python+%7C+JavaScript+%7C+TypeScript" alt="Typing SVG" />
 
 <p>
-Cientista da Computação formado pela <strong>UFRRJ</strong>, com experiência acadêmica em programação, projetos práticos e maratonas de programação.<br>
+Cientista da Computação formado pela <strong>UFRRJ</strong>, com experiência em programação, projetos práticos e maratonas de programação.<br>
 Desenvolvimento web, aplicações full-stack, jogos 3D e projetos envolvendo IA.
 </p>
 
@@ -22,18 +22,7 @@ Desenvolvimento web, aplicações full-stack, jogos 3D e projetos envolvendo IA.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,nodejs,react,postgres,git,github,figma,unity,jenkins" alt="Tecnologias e ferramentas" />
-
-</div>
-
----
-
-### 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=motagb&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=motagb&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+<img src="https://skillicons.dev/icons?i=js,python,ts,java,cs,html,css,nodejs,react,docker,postgres,git,github,jira,figma,unity" alt="Tecnologias e ferramentas" />
 
 </div>
 
@@ -43,7 +32,7 @@ Desenvolvimento web, aplicações full-stack, jogos 3D e projetos envolvendo IA.
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **🎓 EducaMais** | Plataforma educacional 3D com mecânicas de avaliação de alunos, integração com IA e site integrado. | `Unity` `C#` `Full-Stack` |
+| **🎓 EducaMais** | Plataforma educacional 3D com mecânicas de avaliação de alunos, integração com IA e site integrado. | `Unity` `TypeScript` `PostgreSQL` |
 | **🛒 White Beast** | E-commerce desenvolvido com front-end, back-end e integração com banco de dados. | `JavaScript` `TypeScript` `SQL` `Adonis.js` |
 | **🎮 Behind Shadows Of Gray** | Jogo de plataforma 3D com mecânicas de movimento, colisão, física e interação. | `Unity` `C#` |
 
