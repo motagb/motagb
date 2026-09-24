@@ -22,7 +22,7 @@ Desenvolvimento web, aplicações full-stack, jogos 3D e projetos envolvendo IA.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,python,ts,java,cs,html,css,nodejs,react,docker,postgres,git,github,jira,figma,unity" alt="Tecnologias e ferramentas" />
+<img src="https://skillicons.dev/icons?i=js,python,ts,java,cs,html,css,nodejs,react,docker,postgres,git,github,figma,unity" alt="Tecnologias e ferramentas" />
 
 </div>
 
