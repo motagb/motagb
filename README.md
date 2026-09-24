@@ -20,7 +20,7 @@ Atuo com desenvolvimento web, aplicações full-stack, jogos 3D e projetos envol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,nodejs,react,postgres,git,github,figma,unity,jenkins&perline=15" alt="Tecnologias e ferramentas" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cs,html,css,nodejs,react,docker,postgres,git,github,figma,unity&perline=15" alt="Tecnologias e ferramentas" />
 
 </div>
 
@@ -30,7 +30,7 @@ Atuo com desenvolvimento web, aplicações full-stack, jogos 3D e projetos envol
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| 🎓 **EducaMais** | Plataforma educacional 3D com mecânicas de avaliação de alunos, integração com IA e site integrado. | `Unity` `C#` `Full-Stack` |
+| 🎓 **EducaMais** | Plataforma educacional 3D com mecânicas de avaliação de alunos, integração com IA e site integrado. | `Unity` `Full-Stack` `PostgreSQL` |
 | 🛒 **White Beast** | E-commerce desenvolvido com front-end, back-end e integração com banco de dados. | `JavaScript` `TypeScript` `SQL` `Adonis.js` |
 | 🎮 **Behind Shadows Of Gray** | Jogo de plataforma 3D com mecânicas de movimento, colisão, física e interação. | `Unity` `C#` |
 
